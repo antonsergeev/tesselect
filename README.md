@@ -1,5 +1,6 @@
 tesselect
 =========
+[![DOI](https://zenodo.org/badge/11406/antonsergeev/tesselect.svg)](http://dx.doi.org/10.5281/zenodo.16410)
 
 Tesselect module based on Delaunay tesselation and provides some grain analysis techniques for microscopy images. It depends on:
 
