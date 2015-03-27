@@ -2,6 +2,7 @@ tesselect
 =========
 
 Tesselect module based on Delaunay tesselation and provides some grain analysis techniques for microscopy images. It depends on:
+
  * Python 3.x
  * NumPy
  * SciPy

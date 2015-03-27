@@ -22,7 +22,7 @@ Available functions:
 """
 
 #-----------------------------------------------------------------------------
-# Copyright (c) 2014, Anton Sergeev.
+# Copyright (c) 2014-2015, Anton Sergeev.
 #
 # Distributed under the terms of the MIT License.
 #
@@ -30,7 +30,7 @@ Available functions:
 #-----------------------------------------------------------------------------
 
 # Release data
-__version__ = '0.1-dev'
+__version__ = '0.1'
 __author__ = "Anton Sergeev <antonsergeevphd@gmail.com>"
 __license__ = "MIT"
 
